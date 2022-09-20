@@ -23,3 +23,14 @@ btnContacto.addEventListener("click", function() {
     console.log(btnContacto)
     console.log(contContacto)
 });
+
+// "./thank-you-page.html"
+
+function red() { 
+    location.href = "./thank-you-page.html"; 
+}
+
+addEventListener('submit', (event) => { 
+    event.preventDefault();
+    location.href = "./thank-you-page.html"; 
+});

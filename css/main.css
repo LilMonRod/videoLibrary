@@ -379,3 +379,11 @@ body {
     flex-direction: column;
     justify-content: center;
 }
+
+.thx-page {
+    max-width: 900px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 40px auto;
+}
