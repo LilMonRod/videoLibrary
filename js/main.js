@@ -26,11 +26,11 @@ btnContacto.addEventListener("click", function() {
 
 // "./thank-you-page.html"
 
-function red() { 
-    location.href = "./thank-you-page.html"; 
-}
+// function red() { 
+//     location.href = "./thank-you-page.html"; 
+// }
 
-addEventListener('submit', (event) => { 
-    event.preventDefault();
-    location.href = "./thank-you-page.html"; 
-});
+// addEventListener('submit', (event) => { 
+//     event.preventDefault();
+//     location.href = "./thank-you-page.html"; 
+// });
